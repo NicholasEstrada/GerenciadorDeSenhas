@@ -1,4 +1,11 @@
-# gerenciador-senhas
+# <h1 align="center"> Gerenciador de Senhas </h1>
+
+<h2>Site Desenvolvido com Vue.js </h4>
+
+- site gere os dados de usuario e senha com os links dos aplicativos
+- serve de modo non login, muito útil para consultas fáceis à suas contas
+
+# Processo de Instalação do Projeto:
 
 ## Project setup
 ```
